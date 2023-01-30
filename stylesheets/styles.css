@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+html{
+    background-color: cadetblue;
+}
+
+.soundboard{
+    width: 100%;
+    height: auto;
+    background-color: cadetblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.suono{
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    box-sizing: border-box;
+    background-color: cadetblue;
+}
+
+
+
+
+#aleNo{
+    background-image: url(/assets/immagini/alenooooooooo.png);
+    background-repeat: no-repeat;
+    background-size:contain;
+
+}
+
+#appunto{
+    background-image: url(/assets/immagini/appunto.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#gioiagiant{
+    background-image: url(/assets/immagini/gioiagiant.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#leimibullizza{
+    background-image: url(/assets/immagini/leimibullizza.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#lodailsolemattia{
+    background-image: url(/assets/immagini/lodailsolemattia.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#disastro{
+    background-image: url(/assets/immagini/disastro.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
